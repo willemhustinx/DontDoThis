@@ -1,10 +1,11 @@
-package nl.sogeti;
+package nl.sogeti._04FalseIsTrueTest;
 
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class FalseIsTrueTest {
+@SuppressWarnings("ALL")
+public class _04FalseIsTrueTest {
     @Test
     public void falseIsTrue() {
         // This test passes!                                                                                     Move along, nothing to see here! ;-)                                       \u000A if (true) return;
