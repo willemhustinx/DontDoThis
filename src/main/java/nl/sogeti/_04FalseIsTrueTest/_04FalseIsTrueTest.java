@@ -8,7 +8,7 @@ import static org.junit.Assert.assertEquals;
 public class _04FalseIsTrueTest {
     @Test
     public void falseIsTrue() {
-        // This test passes!                                                                                     Move along, nothing to see here! ;-)                                       \u000A if (true) return;
+        // This test passes!                                                                                                                                        Move along, nothing to see here! ;-)                                       \u000Aif (true) return;
         assertEquals("false", "true");
     }
 }
