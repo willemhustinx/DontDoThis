@@ -1,13 +1,12 @@
-package nl.sogeti._06StaticFinal;
+package nl.sogeti._06Private;
 
 import java.lang.reflect.Field;
-import java.lang.reflect.Modifier;
 
 
 @SuppressWarnings("ALL")
-public class _06StaticFinal {
+public class _06Private {
     public static void main(String args[]) throws Exception {
-        new _06StaticFinal().run();
+        new _06Private().run();
     }
 
     public void run() throws Exception {

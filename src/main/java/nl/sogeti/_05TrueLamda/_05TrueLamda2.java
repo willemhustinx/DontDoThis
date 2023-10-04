@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.function.Consumer;
 
 @SuppressWarnings("ALL")
-public class _05TrueLamda {
+public class _05TrueLamda2 {
     public static void main(String... args) {
         trueLambda();
     }
