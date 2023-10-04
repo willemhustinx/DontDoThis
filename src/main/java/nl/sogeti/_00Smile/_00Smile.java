@@ -1,6 +1,7 @@
-package nl.sogeti;
+package nl.sogeti._00Smile;
 
-public class Smile {
+@SuppressWarnings("ALL")
+public class _00Smile {
     public static void main(String[] args) {
 
         StringBuilder sb = new StringBuilder();

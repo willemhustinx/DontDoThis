@@ -1,6 +1,7 @@
-package nl.sogeti;
+package nl.sogeti._03Generics;
 
-public class Generics {
+@SuppressWarnings("ALL")
+public class _03Generics {
     public static void main(String... args) {
 
         var listOfInt = new ArrayListᐸintᐳ();

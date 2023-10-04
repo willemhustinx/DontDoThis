@@ -1,13 +1,14 @@
-package nl.sogeti;
+package nl.sogeti._01Zalgo;
 
-public class Zalgo {
+@SuppressWarnings("ALL")
+public class _01Zalgo {
 
     private static final int ŹĄŁĜØ = -1;
 
     public static void main(String... args) throws Exception {
         System.out.println(ŹĄŁĜØ);
 
-        String fieldName = Zalgo.class.getDeclaredField("ŹĄŁĜØ").getName();
+        String fieldName = _01Zalgo.class.getDeclaredField("ŹĄŁĜØ").getName();
         System.out.println(fieldName);
     }
 }
